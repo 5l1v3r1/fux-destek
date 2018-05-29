@@ -1,0 +1,3 @@
+#!/bin/bash
+
+exec python3 /usr/share/fux-destek/fux-destek.py & disown

@@ -1,0 +1,15 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=Fux Support
+Name[tr]=Fux Destek
+Comment=Support for Fux users
+Comment[tr]=Fux kullanıcılar için destek
+Keywords=support;users;
+Keywords[tr]=destek;kullanıcılar;
+Exec=fux-destek %U
+Icon=destek
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GTK;Network;Chat;
