@@ -1,7 +1,4 @@
 # fux-destek
-[PY] Fux-Destek Chat Service
+[Python] Fux Destek uygulaması. Kullanıcılar için destek sağlama amaçlı yazılmış bir sohbet platformu.
 
-# fux-destek
-Fux Destek uygulaması. Kullanıcılar için destek sağlama amaçlı yazılmış bir sohbet platformu.
-
-![Alt text](https://github.com/fuxprojesi/fux-destek/blob/master/destek-ss.png "Ekran Görüntüsü")
+![Alt text](https://raw.githubusercontent.com/B0RU70/fux-destek/master/icons/hicolor/2018-05-30%2002-19-09%20ekran%20görüntüsü.png "Ekran Görüntüsü")
